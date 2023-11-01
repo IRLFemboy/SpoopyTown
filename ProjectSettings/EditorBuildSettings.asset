@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SpoopyHouse.unity
+    guid: 4efdb7b20f8611e47b254e02b154834c
+  - enabled: 1
+    path: Assets/Scenes/Spooky!!!.unity
+    guid: 0cb53d5531ff7b04db54658d280d9b83
+  - enabled: 1
+    path: Assets/Scenes/Dante.unity
+    guid: eeef7d8538887be41a3f3678cd8766b9
+  - enabled: 1
+    path: Assets/Scenes/Bouncy!!!.unity
+    guid: 63db535a8ced96743a04259606470981
   m_configObjects: {}
